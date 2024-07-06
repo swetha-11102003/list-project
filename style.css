@@ -1,0 +1,29 @@
+h3{
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    text-shadow: 5px 5px 5px black;
+    color:red;
+}
+body{
+    background: url("https://www.euroschoolindia.com/wp-content/uploads/2023/08/why-social-studies-is-so-important.jpg");
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: x-large;
+
+
+}
+span{
+    color:saddlebrown;
+    text-shadow:1px 1px 1px black;
+
+}
+marquee{
+    margin-rights:600px;
+    width:150px;
+}
+h3{
+    margin-right:100px;
+    width:150px;
+}
